@@ -13,6 +13,7 @@ body{
 }
 
 #button0{
+  height: 37px;
     border-radius: 20px;
 }
 
@@ -223,6 +224,7 @@ body{
 }
 
 #pSee{
+  color: #1E1C24;
   font-size: 24px;
   font-family: "Poppins";
   font-weight: lighter;
@@ -231,12 +233,12 @@ body{
 #mailenter2{
 height: 47px;
 weight: 396.67;
-margin-left: 750px;
+margin-left: 780px;
 border-radius: 20px;
 }
 
-#mail2{
-height: 77px;
+#email2{
+height: 47px;
 weight: 229.67;
 border-radius: 20px;
 }
